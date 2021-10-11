@@ -1,0 +1,209 @@
+
+    .top {
+        background-color: rgb(58, 58, 58);
+        margin-top: 0px;
+        height: 40px;
+        position: sticky;
+        top: 0;
+        z-index: 2;
+    }
+
+    .inner {
+        text-align: right;
+        padding: 0.5%;
+        padding-left: 1.5%;
+        padding-right: 1.5%;
+        /* position: sticky; */
+    }
+
+    .contact {
+        text-decoration: none;
+        color: white;
+
+
+    }
+
+    .email {
+        text-decoration: none;
+        color: rgb(172, 171, 171);
+        margin-right: 38px;
+    }
+
+    .contact:hover {
+        color: chartreuse;
+    }
+
+    .email:hover {
+        color: rgb(219, 218, 218);
+    }
+
+    .first {
+        /* padding: 5%;
+        font-size: 80px; */
+        height: 600px;
+        background-image: url('https://jdpallas.com/wp-content/uploads/2015/02/JD-PALLAS-Website-Background-Image-Consulting-Team-Meeting.jpg');
+        background-repeat: no-repeat;
+        /* background-attachment: fixed; */
+        background-size: cover;
+        border-bottom: 2px solid yellowgreen;
+    }
+    .Navbar{
+        position: sticky;
+        top: 40px;
+        z-index:2;
+    }
+    .navbar{
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+    .navbar-nav{
+        margin-left: 45%;
+
+    }
+    .nav-item{
+        margin: 5px;
+    }
+    .nav-link{
+        font-weight: 700;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: chartreuse;
+    }
+    .Contact{
+        background-color: rgb(133, 221, 45);
+    }
+    .motto{
+        padding: 5%;
+        padding-left: 7%;
+        padding-right: 7%;
+        font-size: 90px;
+        text-align: right;
+        font-weight: bold;
+        color: white;
+        letter-spacing: 0.5px;
+        word-spacing: 2px;
+    }
+    .carousel1{
+        
+        padding: 2%;
+        width:600px;
+        height:360px;
+        margin-left: auto;
+        
+    }
+    .carousel-heading{
+        color: white;
+        font-weight:bold;
+        margin-bottom:7px;
+    }
+    .second{
+        height: 650px;
+        background-color: black;
+    }
+    .carousel-item{
+        padding: 8%;
+    }
+    .intro{
+        color: white;
+        padding: 6.2%;
+    }
+    .second-first{
+        font-size: 80px;
+        font-weight: 800;
+    }
+    .second-second{
+        font-size: 80px;
+        font-weight: 800;
+        color: yellowgreen;
+    }
+    .second-third{
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 15px;
+    }
+    .second-fifth{
+        font-weight: 600;
+        color: yellowgreen;
+    }
+    .column {
+        float: left;
+        width: 50%;
+        padding: 5px;
+      }
+      
+    .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+    .photos{
+        padding: 5%;
+    }
+    .heading{
+        font-size: 30px;
+        font-weight: 800;
+        text-align: center;
+    }
+    .about{
+        text-align: center;
+        margin: 25px;
+        margin-left: 200px;
+        margin-right: 200px;
+
+    }
+    .button{
+        text-align: center;
+        margin-top: 17px;
+        margin-bottom: 40px;
+    }
+    .third{
+        background-color: rgb(241, 238, 238);
+    }
+    .fourth{
+        background-color: rgb(26, 26, 26);
+        color: white;
+    }
+    .clients{
+        padding: 10%;
+    }
+    .column2{
+        float: left;
+        width: 20%;
+        padding: 5px;
+    }
+    .whoweare{
+        padding: 6%;
+    }
+    .sixth{
+        background-color: black;
+        color: white;
+    }
+    .image{
+        /* margin-right: auto; */
+        background-image: url('8.png');
+    }
+    .text{
+        text-align: justify;
+        padding: 1%;
+    }
+    .header{
+        margin: 20px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .p1{
+        margin: 20px;
+    }
+    .p2{
+        margin: 20px;
+    }
+    .p3{
+        margin: 20px;
+    }
+    /* .motto1{
+        font-size: 40px;
+        font-weight: 900;
+        margin-left: 20px;
+        margin-right: 200px;
+    } */
+    
+    
